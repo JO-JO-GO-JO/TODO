@@ -1,4 +1,4 @@
-Clone the repository:
+Clone the repository: https://github.com/JO-JO-GO-JO/TODO/tree/main
 
 git clone 
 Navigate to the project directory:
